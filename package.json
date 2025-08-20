@@ -1,0 +1,43 @@
+{
+  "name": "clinic",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+
+  },
+  "dependencies": {
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "next": "15.4.5"
+  },
+  "devDependencies": {
+   "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "next": "15.4.5",
+    "shadcn-ui": "latest",
+    "tailwindcss": "^4.0.0",
+    "@tailwindcss/postcss": "^4.0.0",
+    "clsx": "^1.2.1",
+    "postcss": "^8.4.21",
+    "autoprefixer": "^10.4.21",
+    "eslint-config-next": "15.4.5",
+    "@eslint/eslintrc": "^3.0.0",
+    "@shadcn/ui": "latest",
+    "@shadcn/ui-tailwind": "latest",
+    "@shadcn/ui-icons": "latest",
+    "@shadcn/ui-forms": "latest",
+    "@shadcn/ui-dialog": "latest",
+    "@shadcn/ui-tooltip": "latest",
+    "@shadcn/ui-toast": "latest",
+    "@shadcn/ui-progress": "latest",
+    "@shadcn/ui-spinner": "latest",
+    "@shadcn/ui-select": "latest",
+    "@shadcn/ui-checkbox": "latest",
+    "@shadcn/ui-switch": "latest" 
+
+  }
+}
