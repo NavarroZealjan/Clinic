@@ -1,4 +1,6 @@
 /* eslint-disable @next/next/no-page-custom-font */
+import "./globals.css";
+
 export default function RootLayout({
   children,
 }: {
