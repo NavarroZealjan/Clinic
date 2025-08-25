@@ -1,8 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  experimental: {
-    optimizeCss: false, // 🔴 disable lightningcss
-  },
+  reactStrictMode: true,
+  experimental: {},
 };
 
 module.exports = nextConfig;
